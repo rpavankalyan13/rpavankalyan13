@@ -1,6 +1,6 @@
 
 
-# 🛡️ Security Analyst _ Pavan Kalyan sing **Rapid7 InsightIDR**.
+# 🛡️ Security Analyst _ Pavan Kalyan
 
 - **Log Anaysis**: Scripts for quick and deep log analysis using **Rapid7 InsightIDR**.
 - **Incident Response Playbooks**: Guides to handle and escalate security incidents effectively.
