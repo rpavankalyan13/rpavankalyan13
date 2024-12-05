@@ -10,7 +10,6 @@
 
 ## ⚡ Highlights
 
-- **Automate log analysis**: No more manual searching through logs—automate it!
 - **Fast response**: Streamline your response to incidents.
 - **Proactive threat hunting**: Don't wait for threats to appear—hunt them down.
 
